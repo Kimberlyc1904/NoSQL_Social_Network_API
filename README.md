@@ -46,7 +46,7 @@ Use MongoDB and the Mongoose ODM for the database.
 
 ## GitHub/Heroku
 
-[https://github.com/Kimberlyc1904](https://github.com/Kimberlyc1904/NoSQL_Social_Network_API)
+(https://github.com/Kimberlyc1904/NoSQL_Social_Network_API)
 
 ## Sources
 
